@@ -1,0 +1,24 @@
+{
+  "name": "haxxor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-latest": "^6.24.1",
+    "dtmf": "0.0.1",
+    "exif": "^0.6.0",
+    "exif-parser": "^0.1.12",
+    "exiftool": "0.0.3",
+    "jest": "^26.6.3",
+    "linux": "^4.2.1",
+    "node-fetch": "^2.6.1",
+    "react-native-rss-parser": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel-node --presets latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
